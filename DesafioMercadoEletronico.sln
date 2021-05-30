@@ -29,9 +29,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MercadoEletronico.Service",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MercadoEletronico.Infra.Shared", "MercadoEletronico.Infra.Shared\MercadoEletronico.Infra.Shared.csproj", "{397B61F4-EBED-4168-A98A-DB8F26221A95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercadoEletronico.Infra.Data.Test", "MercadoEletronico.Infra.Data.Test\MercadoEletronico.Infra.Data.Test.csproj", "{32EC8EDE-A306-4B13-9382-F970504A9A02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MercadoEletronico.Infra.Data.Test", "MercadoEletronico.Infra.Data.Test\MercadoEletronico.Infra.Data.Test.csproj", "{32EC8EDE-A306-4B13-9382-F970504A9A02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercadoEletronico.Service.Test", "MercadoEletronico.Service.Test\MercadoEletronico.Service.Test.csproj", "{992F6407-31C2-403A-A878-BFF5978C86C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MercadoEletronico.Service.Test", "MercadoEletronico.Service.Test\MercadoEletronico.Service.Test.csproj", "{992F6407-31C2-403A-A878-BFF5978C86C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B9052A49-7ED8-4D49-93E9-BF74084BC381}"
+	ProjectSection(SolutionItems) = preProject
+		instructions.md = instructions.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
